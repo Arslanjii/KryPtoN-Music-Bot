@@ -76,7 +76,7 @@ Command | Description
 - [Paypal](https://www.paypal.me/KomodoOS)
 
 # License
-[GPL-3.0 License](https://github.com/Kry9toN/KryPtoN-Music-Bot/blob/master/LICENSE.md) KryPtoN © 2021
+[GPL-3.0 License](https://github.com/Arslanjii/blob/master/LICENSE.md) KryPtoN © 2021
 
 # Credit
 - [@MarshalX](https://github.com/MarshalX)
