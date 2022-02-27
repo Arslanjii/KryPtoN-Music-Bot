@@ -10,7 +10,7 @@
       "pyrogram",
       "callsmusic"
     ],
-    "repository": "https://github.com/vincreator/KryPtoN-Music-Bot",
+    "repository": "https://github.com/Arslajii/KryPtoN-Music-Bot",
     "stack": "container",
     "env": {
       "SESSION_STRING": {
